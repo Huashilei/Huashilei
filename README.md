@@ -12,7 +12,7 @@
   </picture>
 </a>
 
-<br/><br/>
+<br/>
 
 <p>
   <a href="https://huashilei.dev"><img src="https://img.shields.io/badge/Portfolio-27272a?style=for-the-badge&logo=nextdotjs&logoColor=fafafa" alt="Portfolio" /></a>
@@ -22,7 +22,6 @@
 
 </div>
 
-<br/>
 
 <table>
   <tr>
