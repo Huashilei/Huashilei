@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Hua Shi Lei, Software and Game Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#09090b"/>
+      <stop offset="1" stop-color="#1f3430"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <text x="600" y="102" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="1" fill="#fafafa">Hua Shi Lei</text>
+  <text x="600" y="146" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" letter-spacing="3" fill="#8fb5a8">SOFTWARE AND GAME DEVELOPER</text>
+</svg>

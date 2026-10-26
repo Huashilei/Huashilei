@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:1f3430&height=140&section=header&text=Hua%20Shi%20Lei&fontSize=44&fontColor=fafafa&fontAlignY=50&desc=Software%20%26%20Game%20Developer%20%C2%B7%20Founder%20of%20Bathala%20Studio&descSize=15&descColor=8fb5a8&descAlignY=72" alt="Hua Shi Lei" width="100%" />
+<img src="assets/banner.svg" alt="Hua Shi Lei, Software and Game Developer" width="100%" />
 
 <p>Full-stack web apps, multiplayer game systems, and AI-assisted tooling.</p>
 
@@ -16,7 +16,6 @@
 </p>
 
 <p>
-  <a href="https://www.bathalastudio.com/"><img src="https://img.shields.io/badge/Bathala_Studio-8fb5a8?style=for-the-badge&logo=unrealengine&logoColor=09090b" alt="Bathala Studio" /></a>
   <a href="https://huashilei.dev"><img src="https://img.shields.io/badge/Portfolio-27272a?style=for-the-badge&logo=nextdotjs&logoColor=fafafa" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/huashilei"><img src="https://img.shields.io/badge/LinkedIn-27272a?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn" /></a>
   <a href="mailto:huashilei2016@gmail.com"><img src="https://img.shields.io/badge/Email-27272a?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email" /></a>
@@ -30,7 +29,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>About</h3>
-      <p>Software and game developer based in Cavite, Philippines. BS Information Technology graduate from FEU. I build full-stack web apps and games, write my own backends, and use an AI-assisted workflow to ship faster. Founder of <a href="https://www.bathalastudio.com/">Bathala Studio</a>, an indie game label.</p>
+      <p>Software and game developer based in Cavite, Philippines. BS Information Technology graduate from FEU. I build full-stack web apps and games, write my own backends, and use an AI-assisted workflow to ship faster. Founder of Bathala Studio, an indie game label.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Currently</h3>
@@ -65,23 +64,9 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>Focus</h3>
-      <ul>
-        <li>Game development and gameplay systems</li>
-        <li>Multiplayer and co-op design</li>
-        <li>Full-stack web development</li>
-        <li>AI-assisted development workflows</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Links</h3>
-      <ul>
-        <li><a href="https://www.bathalastudio.com/">bathalastudio.com</a></li>
-        <li><a href="https://huashilei.dev">huashilei.dev</a></li>
-        <li><a href="https://www.linkedin.com/in/huashilei">linkedin.com/in/huashilei</a></li>
-        <li><a href="mailto:huashilei2016@gmail.com">huashilei2016@gmail.com</a></li>
-      </ul>
+      <p>Game development and gameplay systems &nbsp;·&nbsp; Multiplayer and co-op design &nbsp;·&nbsp; Full-stack web development &nbsp;·&nbsp; AI-assisted development workflows</p>
     </td>
   </tr>
 </table>
